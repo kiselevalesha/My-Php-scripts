@@ -1,1 +1,1 @@
-{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImRkZjkwMzk5LTUxYjYtNGZhZS1hYjNkLTA5NGJhOTk0NDk0OSIsInVzZXJuYW1lIjoiYmVhdXR5bWFzdGVyc2FwcCIsImlhdCI6MTU5NTI0MjUwOSwiZXhwIjoxNTk1MzMyNTA5LCJpc3MiOiJTaWdtYVNNUyJ9.VnoW1kHStnUuYG5avBvhjujpgbMZ63FM1WS7tKOKBnk","id":"ddf90399-51b6-4fae-ab3d-094ba9944949","username":"beautymastersapp"}
+{"token":"","id":"","username":""}

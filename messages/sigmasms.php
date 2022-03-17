@@ -11,8 +11,8 @@ $token_filename = '../php-scripts/messages/sigmatoken.txt';
 function apiRequest($first = false, $data = false, $url_path = false, $token = false, $file = false) {
     global $token_filename;
     $api_url = 'https://online.sigmasms.ru/api/';
-    $login = 'beautymastersapp';
-    $pass = 'Balsoch328';
+    $login = '';
+    $pass = '';
     // Get Token
     if ($first) {
         $fields = array(
